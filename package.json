@@ -10,7 +10,9 @@
   "author": "DGA",
   "license": "ISC",
   "dependencies": {
+    "db-errors": "^0.2.3",
     "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1",
     "knex": "^1.0.3",
     "morgan": "^1.10.0",
     "objection": "^3.0.1",
